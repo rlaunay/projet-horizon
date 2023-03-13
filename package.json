@@ -1,0 +1,16 @@
+{
+  "name": "projet-horizon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r --parallel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "19.7.0",
+    "pnpm": "7.29.1"
+  }
+}
